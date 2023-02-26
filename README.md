@@ -25,5 +25,5 @@ You need to know:
 - How to use coroutines for long-running tasks.
 
 <img width="425" alt="スクリーンショット 2023-02-26 16 02 33" src="https://user-images.githubusercontent.com/47734014/221400748-c035d0c4-a3ab-436d-b6f6-c1b4182ab106.png">
-![Screenshot_20230226_174202](https://user-images.githubusercontent.com/47734014/221400755-95cffa59-0f5a-4de2-b847-c08e8f962e91.png)
-![Screenshot_20230226_174229](https://user-images.githubusercontent.com/47734014/221400762-199a17a5-fc68-4f8b-a926-0896dc396bdf.png)
+
+<img src="https://user-images.githubusercontent.com/47734014/221400800-3837bf7f-ec58-43da-8333-7d23b2de4b1f.png" width="200"> <img src="https://user-images.githubusercontent.com/47734014/221400802-8932933b-14bb-4334-9bb1-3e067495b7c4.png" width="200">
